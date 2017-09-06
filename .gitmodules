@@ -1,0 +1,15 @@
+[submodule "pepper_mount"]
+	path = pepper_mount
+	url = git@github.com:stonecrucible/pepper_mount.git
+[submodule "pepper_codebase"]
+	path = pepper_codebase
+	url = git@github.com:stonecrucible/pepper_codebase.git
+[submodule "pepper_requirements"]
+	path = pepper_requirements
+	url = git@github.com:stonecrucible/pepper_requirements.git
+[submodule "pepper_selinux"]
+	path = pepper_selinux
+	url = git@github.com:stonecrucible/pepper_selinux.git
+[submodule "pepper_nginx"]
+	path = pepper_nginx
+	url = git@github.com:stonecrucible/pepper_nginx.git
